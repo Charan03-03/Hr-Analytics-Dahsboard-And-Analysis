@@ -56,6 +56,3 @@ The project uses **SHAP (SHapley Additive exPlanations)** to interpret the model
 
 ---
 
-### 💡 Key Findings & Strategic Recommendations
-
-The full list of data-driven, actionable retention strategies
